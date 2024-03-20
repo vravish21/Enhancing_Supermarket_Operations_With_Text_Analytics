@@ -1,4 +1,4 @@
-Enhancing Supermarket Operations with Text Analytics" aims to improve supermarket operations using text analytics to understand customer behaviors, preferences, and visitation patterns, thereby optimizing operations and efficiency.
+"Enhancing Supermarket Operations with Text Analytics" aims to improve supermarket operations using text analytics to understand customer behaviors, preferences, and visitation patterns, thereby optimizing operations and efficiency.
 
 The project utilizes datasets containing check-in information, reviews, and business details to gain insights into customer visit frequencies and business characteristics. Techniques like sentiment analysis and topic modeling with BERT are employed to process and analyze text data, focusing on extracting meaningful patterns from customer feedback and check-ins.
 
